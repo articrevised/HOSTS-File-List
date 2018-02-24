@@ -1,0 +1,11 @@
+127.0.0.1 activate.adobe.com
+127.0.0.1 practivate.adobe.com
+127.0.0.1 lmlicenses.wip4.adobe.com
+127.0.0.1 lm.licenses.adobe.com
+127.0.0.1 na1r.services.adobe.com
+127.0.0.1 hlrcv.stage.adobe.com
+127.0.0.1 bandicam.com
+127.0.0.1 ssl.bandisoft.com
+127.0.0.1 www.mirillis.com
+127.0.0.1 s0ft4pc.com
+127.0.0.1 serwer2.paka-service.com
