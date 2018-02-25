@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 0.5
+! Version: 1
 ! Title: ArticRevised's Shock Site EASYLIST
 ! Last modified: 2/24/2018 4:43 PM
-! Expires: IDK
-! Homepage: https://google.com
+! Expires: Never
+! Homepage: https://github.com/articrevised/HOSTS-File-List
 !
 ||goatse.cx^
 ||1girl1pitcher.com^
