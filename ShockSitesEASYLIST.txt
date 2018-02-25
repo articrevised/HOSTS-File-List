@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Version: 1
 ! Title: ArticRevised's Shock Site EASYLIST
-! Last modified: 2/24/2018 4:43 PM
+! Last modified: 2/25/2018 12:54 PM
 ! Expires: Never
 ! Homepage: https://github.com/articrevised/HOSTS-File-List
 !
@@ -266,3 +266,9 @@
 ||mylazysundays.com^
 ||ww3.mangems.com^
 ||mangems.com^
+||weticecream.com^
+||specialfriedrice.net^
+||ballsack.org^
+||Discharges.org^
+||www.puppybeef.com^
+||www.kittybeef.com^

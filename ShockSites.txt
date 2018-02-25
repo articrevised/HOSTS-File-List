@@ -1,6 +1,6 @@
 # en.wikipedia.org/wiki/List_of_shock_sites
 # screamer.wikia.com/wiki/Category:Shock_sites
-# updated 2/24/2018 4:43pm
+# updated 2/25/2018 12:54 PM
 
 0.0.0.0	goatse.cx       
 0.0.0.0 1girl1pitcher.com
@@ -263,3 +263,9 @@
 0.0.0.0 mylazysundays.com
 0.0.0.0 ww3.mangems.com
 0.0.0.0 mangems.com
+0.0.0.0 weticecream.com
+0.0.0.0 specialfriedrice.net
+0.0.0.0 ballsack.org
+0.0.0.0 discharges.org
+0.0.0.0 www.puppybeef.com
+0.0.0.0 www.kittybeef.com
