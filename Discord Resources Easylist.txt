@@ -1,8 +1,8 @@
-[AdblockPlus2.0]
-!Version:1
-!Title:DiscordResourcesEasylist
-!Expires:Never
-!
+[Adblock Plus 2.0]
+! Version: 1
+! Title:DiscordResourcesEasylist
+! Expires: Never
+! Homepage: https://github.com/articrevised/HOSTS-File-List
 !
 ! IpGrabbers
 ||aruljohn.com/widget/zip/*
