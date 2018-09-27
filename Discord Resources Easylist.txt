@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Version: 1
-! Title:DiscordResourcesEasylist
+! Title: DiscordResourcesEasylist
 ! Last modified: 2/25/2018 12:54 PM
 ! Expires: Never
 ! Homepage: https://github.com/articrevised/HOSTS-File-List
