@@ -4,11 +4,7 @@
 !Expires:Never
 !
 !
-!IpGrabbers
-
-#||aruljohn.com/widget/ip/ip.php
-#||aruljohn.com/widget/zip/zip.js
-#aruljohn.com * block
+! IpGrabbers
 ||aruljohn.com/widget/zip/*
 ||aruljohn.com/widget/ip/*
 ||iplogger.org^
@@ -277,7 +273,7 @@
 ||ps3cfw.com^
 ||orcahub.com^
 ||xn--yotbe-^
-!Malicous
+! Malicous
 ||1000lashes.com^
 ||101satcom.com^
 ||10presidentesparavoce.com.br^
