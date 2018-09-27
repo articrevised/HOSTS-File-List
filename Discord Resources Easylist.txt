@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
 ! Version: 1
 ! Title:DiscordResourcesEasylist
+! Last modified: 2/25/2018 12:54 PM
 ! Expires: Never
 ! Homepage: https://github.com/articrevised/HOSTS-File-List
 !
-! IpGrabbers
 ||aruljohn.com/widget/zip/*
 ||aruljohn.com/widget/ip/*
 ||iplogger.org^
@@ -273,7 +273,6 @@
 ||ps3cfw.com^
 ||orcahub.com^
 ||xn--yotbe-^
-! Malicous
 ||1000lashes.com^
 ||101satcom.com^
 ||10presidentesparavoce.com.br^
@@ -3334,7 +3333,6 @@
 ||zrdom.com.ua^
 ||zssdi.it^
 ||zzhomes.com^
-!Screamers
 ||420yolo.com^
 ||akk.li^
 ||akk.lipicsannejpg^
@@ -3342,7 +3340,6 @@
 ||nospread.xyzaimware.jpg^
 ||strawpoii.me^
 ||strawpoli.me^
-!Phishing
 ||teensearncash.com^
 ||chatlivewith.me^
 ||bvog.com^
