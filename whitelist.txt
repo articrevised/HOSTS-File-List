@@ -227,4 +227,5 @@
 @@||lowes.sc.omtrdc.net
 @@||torlock2.com
 @@||anonymous.ads.brave.com
-@@||brave.com
+@@||variations.brave.com^
+@@||brave.com^
