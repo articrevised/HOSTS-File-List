@@ -226,3 +226,5 @@
 @@||youtubei.googleapis.com
 @@||lowes.sc.omtrdc.net
 @@||torlock2.com
+@@||anonymous.ads.brave.com
+@@||brave.com
